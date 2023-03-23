@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FastGaSP"]
+	path = FastGaSP
+	url = https://github.com/cran/FastGaSP
+	shallow = true
+	registered = true
+[submodule "RobustCalibration"]
+	path = RobustCalibration
+	url = https://github.com/cran/RobustCalibration
+	shallow = true
+	registered = true
+[submodule "RobustGaSP"]
+	path = RobustGaSP
+	url = https://github.com/cran/RobustGaSP
+	shallow = true
+	registered = true
